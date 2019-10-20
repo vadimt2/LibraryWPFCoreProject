@@ -1,11 +1,10 @@
-# LibraryWPFCoreProject
-Users:
+# Users
 username:
-vadim
-customer
-employee
+vadim,
+customer,
+employee,
 test
-Password for all users:
+# Password for all users:
 1234
-
+# Admin
 vadim -> Roll is Admin
